@@ -56,7 +56,7 @@ python predict_house_price.py
 
 ## Authors
 
-- Ansh Sharma
+- Ansh Sharma.
 
 
 
